@@ -1,0 +1,840 @@
+Benešov (CZ)
+LKBE
+N49°44'27 E14°38'41
+403m MSL
+118.005
+Tráva , Tráva
+720x23m , 750x18m
+Bohuňovice (CZ)
+LKBO
+N49°40'14 E17°17'42
+236m MSL
+118.280
+Tráva , Tráva
+830x18m , 830x18m
+Bratislava (SK)
+LZIB
+N48°10'12 E17°12'46
+133m MSL
+118,300
+Beton , Beton
+2900x60m , 3190x45m
+Břeclav (CZ)
+LKBA
+N48°27'00 E16°53'33
+160m MSL
+119.655
+Tráva
+740x60m
+Brno Tuřany (CZ)
+LKBT
+N49°09'05 E16°41'38
+237m MSL
+119.605
+Tráva , Beton
+800x30m , 2650x60m
+Broumov (CZ)
+LKBR
+N50°33'43 E16°20'34
+409m MSL
+123.490
+Tráva
+920x18m
+Bubovice (CZ)
+LKBU
+N49°58'28 E14°10'41
+426m MSL
+134,305
+Tráva , Tráva
+730x23m , 720x30m
+Čáslav (CZ)
+LKCV
+N48°56'22 E15°22'54
+242m MSL
+134,205
+Tráva , Beton
+1309x40m , 2400x60m
+Česká Lípa (CZ)
+LKCE
+N50°42'34 E14°34'00
+283m MSL
+122.140
+Tráva
+700x40m
+České Budějovice (CZ)
+LKCS
+N48°56'47 E14°25'39
+432m MSL
+135.930
+Beton
+2500x45m
+Cheb (CZ)
+LKCB
+N50°03'59 E12°24'46
+483m MSL
+120,610
+Tráva , Beton
+1000x25m , 1000x18m
+Chomutov (CZ)
+LKCH
+N50°28'08 E13°28'05
+345m MSL
+123.605
+Tráva , Tráva
+1200x40m , 830x40m
+Chotěboř (CZ)
+LKCT
+N49°41'09 E15°40'34
+593m MSL
+120.110
+Tráva
+1010x50m
+Chrudim (CZ)
+LKCR
+N49°56'11 E15°46'50
+298m MSL
+122.805
+Tráva
+980x26m
+Dubnica nad Váhom (SK)
+LZDB
+N48°59'49 E18°11'32
+235m MSL
+122,340
+Tráva , Tráva
+1100x30m , 1100x60m
+Dubová (SK)
+LZDV
+N48°20'49 E17°21'23
+193m MSL
+123,930
+Tráva
+505x30m
+Dvůr Králové (CZ)
+LKDK
+N50°24'51 E15°50'13
+282m MSL
+119.610
+Tráva
+846x18m
+Erpužice (CZ)
+LKER
+N49°48'10 E13°02'17
+478m MSL
+123.490
+Tráva
+860x40m
+Frýdlant nad O. (CZ)
+LKFR
+N49°35'22 E18°22'45
+439m MSL
+123.490
+Tráva
+770x65m
+Havlíčkův Brod (CZ)
+LKHB
+N49°35'50 E15°32'57
+463m MSL
+128.905
+Tráva
+1000x50m
+Hodkovice (CZ)
+LKHD
+N50°39'26 E15°04'40
+451m MSL
+120.905
+Tráva
+980x100m
+Holíč (SK)
+LZHL
+N48°48'37 E17°08'02
+161m MSL
+123,680
+Tráva
+1200x100m
+Hořice (CZ)
+LKHC
+N50°21'24 E15°34'38
+280m MSL
+120.315
+Tráva
+740x23m
+Hořovice (CZ)
+LKHV
+N49°50'53 E13°53'38
+381m MSL
+135.580
+Asfalt
+1170x30m
+Hosín (CZ)
+LKHS
+N49°02'24 E14°29'42
+494m MSL
+130.205
+Tráva , Asfalt
+1000x50m , 800x24m
+Hradec Králové (CZ)
+LKHK
+N50°15'12 E15°50'43
+241m MSL
+122.005
+Tráva , Beton
+800x25m , 2400x60m
+Hranice (CZ)
+LKHN
+N49°32'46 E17°42'16
+243m MSL
+123.510
+Tráva
+735x150m
+Jaroměř (CZ)
+LKJA
+N50°19'53 E15°57'14
+271m MSL
+119.105
+Tráva
+940x90m
+Jasná (SK)
+LZJS
+N49°02'52 E19°30'24
+641m MSL
+130,130
+Asfalt
+54415m
+Jičín (CZ)
+LKJC
+N50°25'48 E15°19'59
+263m MSL
+118.080
+Tráva
+1000x100m
+Jihlava (CZ)
+LKJI
+N49°25'11 E15°38'08
+555m MSL
+123.490
+Tráva
+920x100m
+Jindřichův Hradec (CZ)
+LKJH
+N49°09'03 E14°58'18
+513m MSL
+123.605
+Tráva , Asfalt
+760x54m , 700x22m
+Kamenica n. Cirochou (SK)
+LZKC
+N48°56'11 E21°59'39
+174m MSL
+122,605
+Tráva
+870x30m
+Karlovy Vary (CZ)
+LKKV
+N50°12'11 E12°54'54
+606m MSL
+121.230
+Tráva , Asfalt
+800x18m , 2150x30m
+Kladno (CZ)
+LKKL
+N50°06'46 E14°05'23
+433m MSL
+123.480
+Tráva
+980x30m
+Klatovy (CZ)
+LKKT
+N49°25'06 E13°19'19
+396m MSL
+122.210
+Tráva , Tráva
+820x75m , 820x25m
+Kolín (CZ)
+LKKO
+N50°00'07 E15°10'24
+282m MSL
+129.155
+Tráva , Tráva
+900x35m , 900x110m
+Košice (SK)
+LZKZ
+N48°39'47 E21°14'28
+230m MSL
+120,400
+Asfalt
+3100x45m
+Křižanov (CZ)
+LKKA
+N49°22'06 E16°06'58
+559m MSL
+133.155
+Tráva
+700x100m
+Krnov (CZ)
+LKKR
+N50°04'28 E17°41'43
+367m MSL
+122.610
+Tráva
+756x18m	
+Kroměříž (CZ)
+LKKM
+N49°17'08 E17°24'57
+188m MSL
+122.205
+Tráva
+775x30m
+Kunovice (CZ)
+LKKU
+N49°01'46 E17°26'23
+177m MSL
+120.105
+Tráva , Tráva , Beton
+1690x60m , 1480x80m , 2000x30m
+Kvetoslavov (SK)
+LZKV
+N48°02'42 E17°20'57
+125m MSL
+118,300
+Tráva
+630x30m
+Kyjov (CZ)
+LKKY
+N48°58'48 E17°07'29
+209m MSL
+130.610
+Tráva
+1000x125m
+Letkov (CZ)
+LKPL
+N49°43'23 E13°27'08
+419m MSL
+130.610
+Tráva , Tráva
+700x30m , 460x50m
+Liberec (CZ)
+LKLB
+N50°46'06 E15°01'30
+405m MSL
+122.605
+Tráva
+900x50m
+Lučenec (SK)
+LZLU
+N48°20'25 E19°44'08
+216m MSL
+123,060
+Asfalt
+800x30m
+Malacky (SK)
+LZMC
+N48°24'07 E17°07'06
+210m MSL
+129,575
+Beton
+2500x60m
+Martin (SK)
+LZMA
+N48°03'55 E18°57'03
+420m MSL
+120,040
+Tráva , Tráva
+800x50m , 800x50m
+Medlánky (CZ)
+LKCM
+N49°14'12 E16°33'19
+282m MSL
+122,405
+Tráva
+890x74m
+Mikulovice (CZ)
+LKMI
+N50°18'06 E17°17'51
+419m MSL
+123,510
+Tráva
+920x41m
+Mladá Boleslav (CZ)
+LKMB
+N50°23'54 E14°53'54
+233m MSL
+123.610
+Tráva , Tráva
+775x100m , 900x100m
+Mnichovo Hradiště (CZ)
+LKMH
+N50°32'24 E15°00'24
+244m MSL
+120.405
+Tráva , Beton
+1000x30m , 1970x30m
+Moravská Třebová (CZ)
+LKMK
+N49°47'54 E16°41'16
+403m MSL
+130.540
+Tráva , Asfalt
+720x60m , 714x23m
+Most (CZ)
+LKMO
+N50°31'30 E13°40'59
+331m MSL
+118.760
+Tráva , Tráva
+1130x30m , 1130x70m
+Náměšť (CZ)
+LKNA
+N49°09'58 E16°07'27
+472m MSL
+126,505
+Beton
+2400x45m
+Nitra (SK)
+LZNI
+N48°16'00 E18°07'58
+135m MSL
+123,405
+Tráva , Tráva
+1080x50m , 1080x100m
+Nové město (CZ)
+LKNM
+N50°21'51 E16°06'49
+305m MSL
+123.405
+Tráva , Tráva
+930x30m , 900x30m
+Nové Zámky (SK)
+LZNZ
+N47°57'42 E18°11'02
+115m MSL
+120,005
+Tráva
+1001x69m
+Očová (SK)
+LZOC
+N48°35'43 E19°15'57
+369m MSL
+123,605
+Tráva
+780x25m
+Olomouc (CZ)
+LKOL
+N49°35'14 E17°12'36
+265m MSL
+118.005
+Tráva , Tráva , Asfalt
+760x30m , 760x30m , 420x40m
+Ostrava Mošnov (CZ)
+LKMT
+N49°41'46 E18°06'39
+257m MSL
+120.805
+Beton
+3511x63m
+Panenský Týnec (CZ)
+LKPC
+N50°18'23 E13°56'03
+511m MSL
+118,580
+Asfalt
+2505x30m
+Pardubice (CZ)
+LKPD
+N50°00'48 E15°44'18
+226m MSL
+120.155
+Beton
+2500x75m
+Piešťany (SK)
+LZPP
+N48°37'30 E17°49'43
+166m MSL
+118,575
+Beton
+2000x30m
+Plasy (CZ)
+LKPS
+N49°55'13 E13°22'37
+437m MSL
+123.590
+Tráva
+840x100m
+Plzeň Líně (CZ)
+LKLN
+N49°40'31 E13°16'28
+362m MSL
+129,005
+Beton
+1450x60m
+Podhořany (CZ)
+LKPN
+N49°56'21 E15°32'59
+381m MSL
+123.590
+Tráva , Tráva
+730x75m , 640x92m
+Polička (CZ)
+LKPA
+N49°44'21 E16°15'31
+603m MSL
+122.590
+Tráva
+1050x35m
+Poprad Tatry (SK)
+LZTT
+N49°04'25 E20°14'28
+718m MSL
+121,350
+Tráva ,Beton
+760x45m , 2600x45
+Praha Kbely (CZ)
+LKKB
+N50°07'16 E14°32'37
+286m MSL
+120,880
+Asfalt
+2000x49m
+Praha Letňany (CZ)
+LKLT
+N50°07'53 E14°31'32
+278m MSL
+120.335
+Tráva , Tráva
+860x23m , 800x25m
+Praha Ruzyně (CZ)
+LKPR
+N50°06'03 E14°15'36
+376m MSL
+134.560
+Beton , Beton
+3715x45m , 3250x45m
+Praha Točná (CZ)
+LKTC
+N49°59'07 E14°25'32
+313m MSL
+123.410
+Tráva
+870x30m
+Praha Vodochody (CZ)
+LKVO
+N50°13'00 E14°23'44
+280m MSL
+133,080
+Tráva , Asfalt
+1800x50m , 2500x45m
+Přerov (CZ)
+LKPO
+N49°25'33 E17°24'17
+206m MSL
+127,780
+Tráva , Beton
+840x30m , 2500x60m
+Prešov (SK)
+LZPW
+N49°01'36 E21°18'18
+324m MSL
+135,500
+Tráva
+800x20m
+Příbram (CZ)
+LKPM
+N49°43'12 E14°06'01
+466m MSL
+118.755
+Tráva , Asfalt
+1000x18m , 1380x30m
+Přibyslav (CZ)
+LKPI
+N49°34'50 E15°45'46
+531m MSL
+125.610
+Tráva
+765x30m
+Prievidza (SK)
+LZPE
+N48°46'02 E18°35'18
+260m MSL
+123,055
+Tráva , Asfalt
+944x55m , 949x23m
+Prostějov (CZ)
+LKPJ
+N49°26'52 E17°08'02
+214m MSL
+126.905
+Tráva
+1000x60m
+Rakovník (CZ)
+LKRK
+N50°05'39 E13°41'20
+388m MSL
+123.510
+Tráva , Tráva
+910x20m , 910x20m
+Raná (CZ)
+LKRA
+N50°24'14 E13°45'07
+269m MSL
+126.855
+Tráva , Tráva
+750x100m , 850x70m
+Ražňany (SK)
+LZRY
+N49°04'41 E21°05'58
+321m MSL
+122,135
+Tráva Tráva
+1050x30m , 1050x70m
+Rokycany (CZ)
+LKRO
+N49°45'07 E13°35'23
+405m MSL
+119,660
+Tráva
+850x30m
+Roudnice (CZ)
+LKRO
+N50°24'38 E14°13'34
+222m MSL
+122.205
+Tráva , Tráva
+840x30m , 1400x63m
+Ružomberok (SK)
+LZRU
+N49°05'08 E19°22'07
+492m MSL
+123,030
+Tráva , Tráva
+940x40m , 940x40m
+Sazená (CZ)
+LKSZ
+N50°19'29 E14°15'32
+233m MSL
+119,640
+Tráva , Tráva
+1315x93m , 840x30m
+Senica (SK)
+LZSE
+N48°39'28 E17°19'47
+189m MSL
+123,605
+Tráva , Asfalt
+1080x30m , 1080x80m
+Skuteč (CZ)
+LKSK
+N49°49'40 E16°00'21
+492m MSL
+123.510
+Tráva , Tráva
+568x150m , 878x200m
+Slaný (CZ)
+LKSN
+N50°13'00 E14°05'19
+329m MSL
+122.405
+Tráva , Tráva
+760x23m , 760x40m
+Sliač (SK)
+LZSL
+N48°38'17 E19°08'03
+318m MSL
+122,905
+Beton
+2400x57m
+Soběslav (CZ)
+LKSO
+N49°14'48 E14°42'49
+407m MSL
+122.190
+Tráva , Tráva
+740x30m , 607x24m
+Spišská Nová Ves (SK)
+LZSV
+N48°56'26 E20°32'01
+495m MSL
+123,505
+Tráva , Tráva
+1362x40m , 1362x30m
+Staňkov (CZ)
+LKSA
+N49°34'00 E13°02'55
+428m MSL
+123.610
+Tráva
+660x40m
+Stichovice (CZ)
+LKSB
+N49°29'10 E17°03'20
+255m MSL
+120.680
+Tráva
+880x30m
+Strakonice (CZ)
+LKST
+N49°15'06 E13°53'34
+420m MSL
+118.760
+Tráva
+780x25m
+Strunkovice (CZ)
+LKSR
+N49°04'57 E14°04'33
+477m MSL
+123.505
+Tráva
+900x23m
+Šumperk (CZ)
+LKSU
+N49°57'38 E17°01'04
+335m MSL
+122.605
+Tráva , Tráva
+700x90m , 680x18m
+Šurany (SK)
+LZSY
+N48°04'33 E18°06'51
+120m MSL
+132,785
+Tráva
+640x30m
+Svidník (SK)
+LZSK
+N49°20'02 E21°34'13
+354m MSL
+123,405
+Asfalt
+1200x30m
+Tábor (CZ)
+LKTA
+N49°23'28 E14°42'30
+439m MSL
+122.610
+Tráva , Tráva
+1100x130m , 850x100m
+Tachov (CZ)
+LKTD
+N49°47'50 E12°42'23
+500m MSL
+123.405
+Tráva
+1100x23m
+Toužim (CZ)
+LKTO
+N50°05'11 E12°57'10
+647m MSL
+122.605
+Tráva
+1290x100m
+Trenčín (SK)
+LZTN
+N48°51'51 E17°59'32
+206m MSL
+132,015
+Beton , Tráva , Tráva
+2000x30m , 1000x70m , 1000x70m
+Trnava (SK)
+LZTR
+N48°27'11 E17°31'49
+203m MSL
+132,080
+Tráva
+1200x103m
+Ústí nad Labem (CZ)
+LKUL
+N50°41'59 E13°58'11
+240m MSL
+123.405
+Tráva
+780x18m
+Ústí nad Orlicí (CZ)
+LKUO
+N49°58'43 E16°25'35
+409m MSL
+122.210
+Tráva
+887x100m
+Velké Poříčí (CZ)
+LKVP
+N50°28'04 E16°12'20
+404m MSL
+122,190
+Tráva , Tráva
+730x30m ,520x30m
+Vlašim (CZ)
+LKVL
+N49°39'29 E14°52'47
+433m MSL
+119.655
+Tráva
+850x40m
+Vrchlabí (CZ)
+LKVR
+N50°37'27 E15°38'47
+491m MSL
+125.330
+Tráva
+840x125m
+Vyškov (CZ)
+LKVY
+N49°18'01 E17°01'31
+279m MSL
+120.330
+Tráva
+1280x60m
+Vysoké Mýto (CZ)
+LKVM
+N49°55'37 E16°11'09
+301m MSL
+130.605
+Tráva , Tráva , Asfalt
+1200x40m , 1000x80m , 600x18m
+Zábřeh (CZ)
+LKZA
+N49°55'42 E18°04'42
+242m MSL
+123.605
+Tráva
+900x60m
+Žamberk (CZ)
+LKZM
+N50°05'02 E16°26'38
+429m MSL
+122.610
+Tráva
+741x100m
+Žatec Macerka (CZ)
+LKZD
+N50°19'03 E13°30'46
+269m MSL
+122,810
+Tráva
+1120x40m
+Zbraslavice (CZ)
+LKZB
+N49°48'51 E15°12'06
+493m MSL
+126.630
+Tráva
+780x150m
+Žilina (SK)
+LZZI
+N49°14'00 E18°36'49
+311m MSL
+118,400
+Asfalt
+1150x30m
+Zlín (CZ)
+LKZL
+N49°11'54 E17°31'04
+184m MSL
+118,755
+Tráva ,Asfalt
+600x40m , 650x25m
+Znojmo (CZ)
+LKZN
+N48°49'04 E16°03'57
+252m MSL
+130,590
+Tráva
+860x18m
