@@ -1,4 +1,5 @@
 ﻿using System.Device.Location;
+using System.Diagnostics;
 using System.Text;
 
 namespace Generator
@@ -22,6 +23,7 @@ namespace Generator
                 foreach (var navigationPoint in _navigationPoints)
                 {
                     var name = navigationPoint.Name.Replace(' ', '-');
+                    name = ConvertToASCII(name);
                     output.AppendLine($"\"{name}\",\"{name}\",CZ," +
                                       $"{LatitudeToString(navigationPoint.Coordinate)}," +
                                       $"{LongitudeToString(navigationPoint.Coordinate)}," +
@@ -37,6 +39,49 @@ namespace Generator
             }
 
             return true;
+        }
+
+        static Dictionary<char, char> _subChars = new()
+        {
+            {'á','a'},
+            {'č','c'},
+            {'ď','d'},
+            {'é','e'},
+            {'ě','e'},
+            {'í','i'},
+            {'ň','n'},
+            {'ó','o'},
+            {'ř','r'},
+            {'š','s'},
+            {'ť','t'},
+            {'ú','u'},
+            {'ů','u'},
+            {'ý','y'},
+            {'ž','z'}
+        };
+        static string ConvertToASCII(string inputStr)
+        {
+            StringBuilder newString=null;
+            for (var i = 0; i < inputStr.Length; i++)
+            {
+                if (char.IsAscii(inputStr[i])) continue;
+                newString ??= new StringBuilder(inputStr);
+                var c = inputStr[i];
+                if (_subChars.TryGetValue(c, out var subChar))
+                {
+                    newString[i] = subChar;
+                    continue;
+                }
+                c = char.ToLowerInvariant(c);
+                if (_subChars.TryGetValue(c, out var lSubChar))
+                {
+                    newString[i] = char.ToUpperInvariant(lSubChar);
+                    continue;
+                }
+
+                throw new Exception($"It is not possible to convert {inputStr} to latin.");
+            }
+            return newString != null ? newString.ToString() : inputStr;
         }
 
         static string GetWaipointType(NavigationPointType type)

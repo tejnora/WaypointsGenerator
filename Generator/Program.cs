@@ -1,4 +1,6 @@
 ﻿
+using System.Text;
+
 namespace Generator;
 
 static class GeneratorApp
@@ -15,6 +17,9 @@ static class GeneratorApp
 
         points = FilterPointsByDistance.Do(points);
         var saver = new CubFileCreater(points);
-        saver.SaveToFile(Path.Combine(RepositoryPrefix, @"output.cup"));
+        var outputFile = Path.Combine(RepositoryPrefix, @"myWP.cup");
+        saver.SaveToFile(outputFile);
+        var extraPoints = File.ReadAllText(Path.Combine(RepositoryPrefix, "extra-points.cup"));
+        File.AppendAllText(outputFile,extraPoints);
     }
 }
