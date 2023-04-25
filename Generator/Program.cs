@@ -20,6 +20,10 @@ static class GeneratorApp
         var outputFile = Path.Combine(RepositoryPrefix, @"myWP.cup");
         saver.SaveToFile(outputFile);
         var extraPoints = File.ReadAllText(Path.Combine(RepositoryPrefix, "extra-points.cup"));
-        File.AppendAllText(outputFile,extraPoints);
+        File.AppendAllText(outputFile, extraPoints);
+        var jaPoints = File.ReadAllText(Path.Combine(RepositoryPrefix, "XL_OB_JA.cup"))
+            .Split("\r\n")
+            .Where((n) => n.Contains(",PL,") || n.Contains(",DE,")).ToList();
+        File.AppendAllText(outputFile, string.Join("\r\n", jaPoints));
     }
 }
